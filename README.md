@@ -1,4 +1,6 @@
-### Hi there 👋
+                                           
+                                           ### Hi there 👋
+                                           
 ![github-banner](https://user-images.githubusercontent.com/40460234/159689728-5a34e6c8-4598-46d4-ba83-844177cb9015.jpg)
                                           
                                           (Open for a front ent position)
