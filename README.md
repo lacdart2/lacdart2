@@ -5,9 +5,9 @@
                                           
                                           (Open for a front ent position)
                                           
-                        🔭 I’m currently in my last semester in front end web development class
+             🔭 I’m currently in my last semester in front end web development class
                         
-                        🔭 My Tools of Trade .. so far
+             🔭 My Tools of Trade .. so far
                         
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -31,7 +31,7 @@
 ![Premier Pro](https://img.shields.io/badge/premierpro-%23007ACC.svg?style=for-the-badge&logo=premierpro&logoColor=white)
 
 
-                           🔭  Next :
+             🔭  Next :
 
 -----------
 ![Next.js](https://img.shields.io/badge/nextjs-%23007ACC.svg?style=for-the-badge&logo=next.js&logoColor=white)
@@ -39,7 +39,7 @@
 
 --------
 
-                          📫  Reach me on :
+             📫  Reach me on :
                           
                           
 -------------
